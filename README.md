@@ -1,2 +1,2 @@
-# window_s0.github.io
+# hi
 theme: jekyll-theme-minimal
